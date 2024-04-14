@@ -8,7 +8,7 @@ var vgetOfferPrice= (price,discount) -> price*(100-discount)/100
 var practice = 'git practice'
 
 var a = 'a1'
-
+var name = 'durga'
 ---
 // this comment is added for git practice
 Product: {
