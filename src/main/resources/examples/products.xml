@@ -1,7 +1,7 @@
  <way2learn:products xmlns:way2learn="http://way2learnonline.com/domain">
             <product productId="1" brand="Hp">
                <brandName>HP</brandName>
-               <description>Hp Laptop</description>
+               <description>Hp brand Laptop</description>
                <images>
                   <image>image1.jpeg</image>
                   <image>image2.jpeg</image>
@@ -26,7 +26,7 @@
                   <image>image6.png</image>
                   <image>image7.png</image>
                </images>
-               <name>Macbook Pro laptop</name>
+               <name>Macbook Pro brand laptop</name>
                <offer>
                   <offerPrice>3000.0</offerPrice>
                   <offerValidUntil>2016-06-29</offerValidUntil>
