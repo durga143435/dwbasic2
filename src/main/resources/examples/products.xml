@@ -1,7 +1,11 @@
  <way2learn:products xmlns:way2learn="http://way2learnonline.com/domain">
             <product productId="1" brand="Hp">
                <brandName>HP</brandName>
+<<<<<<< Updated upstream
                <description>Hp brand Laptop</description>
+=======
+               <description>Hp new brand Laptop</description>
+>>>>>>> Stashed changes
                <images>
                   <image>image1.jpeg</image>
                   <image>image2.jpeg</image>

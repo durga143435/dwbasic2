@@ -8,7 +8,11 @@ var vgetOfferPrice= (price,discount) -> price*(100-discount)/100
 var practice = 'git practice'
 
 var a = 'a1'
+<<<<<<< Updated upstream
 var name = 'durga'
+=======
+var name = 'leela'
+>>>>>>> Stashed changes
 ---
 // this comment is added for git practice
 Product: {
