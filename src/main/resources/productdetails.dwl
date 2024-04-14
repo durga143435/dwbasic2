@@ -5,6 +5,7 @@ fun getOfferPrice(price,discount)=
 	price*(100-discount)/100
 	
 var vgetOfferPrice= (price,discount) -> price*(100-discount)/100
+var practice = 'git practice'
 ---
 // this comment is added for git practice
 Product: {
