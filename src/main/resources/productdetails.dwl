@@ -6,6 +6,7 @@ fun getOfferPrice(price,discount)=
 	
 var vgetOfferPrice= (price,discount) -> price*(100-discount)/100
 ---
+// this comment is added for git practice
 Product: {
 	pid: payload.productId,
 	pname: payload.name,
